@@ -1,0 +1,19 @@
+{
+  "name": "geneeplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for NodeJs and ExpressJs Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burhanmaseel/GeneePlate.git"
+  },
+  "author": "Burhan Maseel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burhanmaseel/GeneePlate/issues"
+  },
+  "homepage": "https://github.com/burhanmaseel/GeneePlate#readme"
+}
