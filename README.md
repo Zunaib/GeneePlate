@@ -1,2 +1,3 @@
 # GeneePlate
-Boiler Plate for NodeJs applications
+Boiler Plate for NodeJs, ExpressJs and MongoDB applications
+
